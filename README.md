@@ -1,11 +1,11 @@
-# 2102_project
-Demo Crowdfunding Platform
+# Crowdfunder
+Crowdfunding Database Web Application
 
-Instructions to run:  
- 1. Go to C:\Bitnami\wappstack-7.1.1-0\apache2\conf\bitnami
- 2. Access bitnami-apps-prefix.conf file
- 3. Add in this line: 
-    Include "../apps/crowdfunder/conf/httpd-prefix.conf"    
+<img src="crowdfund.png" align="center"><br>
+
+
+* Project of the following module: CS2102 - Database Systems
+* Implementation of SQL database design and concepts in creating a database application
 
 Preloaded accounts for testing
  1. admin@admin.com
